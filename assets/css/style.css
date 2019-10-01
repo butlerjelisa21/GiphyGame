@@ -1,0 +1,21 @@
+.btn-primary {
+	margin-right: 8px;
+	background-color: orange;
+	border-color: orange;
+	border-width: 2px;
+}
+
+
+.btn-primary:hover {
+	background-color: orange;
+	border-color: black;
+      
+
+}
+body {
+    background-image: url("../images/death-2577486_1280.jpg");
+    font-family:'Righteous', cursive;
+    color: rgb(226, 92, 14);
+}
+  
+  

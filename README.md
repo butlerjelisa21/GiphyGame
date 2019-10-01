@@ -6,4 +6,4 @@ Website comes preloaded with a set of buttons with Halloween names
 User can click on a button. This will load & display 10 GIFS on the page along with rating and title information
 Website will alert the user no information is avilable on the topic selected
 User can add additional Halloween button by providing input in the form
-
+When the user refreshes the page the added buttons will disappear
